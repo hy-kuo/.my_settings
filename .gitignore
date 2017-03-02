@@ -1,0 +1,10 @@
+.vim/*
+.ipython/profile_*/security/*
+.ipython/profile_*/pid/*
+.ipython/profile_*/log/*
+.ipython/profile_*/history*
+.ssh/*
+
+!.ssh/config
+!.vim/colors
+!.vim/.vimrc
